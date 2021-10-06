@@ -1,2 +1,2 @@
-# ScottishLeagueResults
-Issue tracker for the Scottish League Results Android App
+# Scottish League Results
+Issue tracker & Wiki for the Scottish League Results Android App project
