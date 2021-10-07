@@ -1,2 +1,2 @@
 # Scottish Football Results
-Issue tracker & Wiki for the Scottish Football Results Android App project.
+Scottish Football Results Android App project.
