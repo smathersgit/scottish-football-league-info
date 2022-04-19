@@ -1,2 +1,2 @@
-# Scottish Football Results
-Scottish Football Results Android App project.
+# Scottish Football League Info
+Scottish Football league Info Android App project.
