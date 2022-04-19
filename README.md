@@ -1,2 +1,2 @@
 # Scottish Football League Info
-Scottish Football league Info Android App project.
+Scottish Football League Info Android App project.
